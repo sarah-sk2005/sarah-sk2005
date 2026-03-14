@@ -1,4 +1,8 @@
-## Hi there 👋
+✌️ Olá, eu sou o Sarah !
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+- Contato: sarah.2005ketlyn@gmail.com
 
 <!--
 **sarah-sk2005/sarah-sk2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
